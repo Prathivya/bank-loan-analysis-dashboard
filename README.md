@@ -8,16 +8,16 @@ This project focuses on analyzing bank loan data to identify trends in loan appl
 
 Tools & Technologies
 
-SQL (MySQL)
-Microsoft Power BI
+SQL (MySQL),
+Microsoft Power BI,
 Microsoft Excel
 
 Key Performance Indicators (KPIs)
 
-Total Loan Applications
-Total Funded Amount
-Total Amount Received
-Average Interest Rate
+Total Loan Applications,
+Total Funded Amount,
+Total Amount Received,
+Average Interest Rate,
 Average Debt-to-Income (DTI) Ratio
 
 Dashboard Features
