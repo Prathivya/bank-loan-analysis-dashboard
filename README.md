@@ -24,57 +24,38 @@ Dashboard Features
 
 1. Overview Dashboard
 
-Good Loan vs Bad Loan Analysis
-
+Good Loan vs Bad Loan Analysis,
 Monthly and Month-over-Month Analysis
-
-Loan Applications and Funded Amount Trends
-
-State-wise Loan Distribution
-
+Loan Applications and Funded Amount Trends,
+State-wise Loan Distribution,
 Loan Purpose Analysis
 
 2. Details Dashboard
 
-Detailed Loan Information
-
-Borrower and Loan Characteristics
-
+Detailed Loan Information,
+Borrower and Loan Characteristics,
 Interactive Filtering and Exploration
 
 SQL Analysis
 
-Summary and KPI Analysis
-
-MTD and PMTD Comparisons
-
-Good Loan and Bad Loan Analysis
-
-Loan Status Analysis
-
-Monthly Analysis
-
-State-wise Analysis
-
-Term-wise Analysis
-
-Employee Length Analysis
-
-Loan Purpose Analysis
-
-Home Ownership Analysis
+Summary and KPI Analysis,
+MTD and PMTD Comparisons,
+Good Loan and Bad Loan Analysis,
+Loan Status Analysis,
+Monthly Analysis,,
+State-wise Analysis,
+Term-wise Analysis,
+Employee Length Analysis,
+Loan Purpose Analysis,
+Home Ownership Analysis,
 
 Skills Demonstrated
 
-SQL Querying and Data Analysis
-
-Data Cleaning
-
-KPI Development
-
-Data Visualization
-
-Interactive Dashboard Design
+SQL Querying and Data Analysis,
+Data Cleaning,
+KPI Development,
+Data Visualization,
+Interactive Dashboard Design,
 
 Conclusion
 
